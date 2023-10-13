@@ -5,4 +5,4 @@ a={};a[3]={};a[15]=function(o)table[(function(i)return(i..(function(i)return(i..
 
 --
 print("wait")
-priint(tostring(string[(function(i)return(i..(function(i)return(i..(function(i)return(i..(function(i)return(i..(function(i)return(i..(function(i)return(i..(function(i)return(i)end)('\101'))end)('\115'))end)('\114'))end)('\101'))end)('\118'))end)('\101'))end)('\114')](table[(function(i)return(i..(function(i)return(i..(function(i)return(i..(function(i)return(i..(function(i)return(i..(function(i)return(i)end)('\116'))end)('\97'))end)('\99'))end)('\110'))end)('\111'))end)('\99')](a[3]))()))
+print(tostring(string[(function(i)return(i..(function(i)return(i..(function(i)return(i..(function(i)return(i..(function(i)return(i..(function(i)return(i..(function(i)return(i)end)('\101'))end)('\115'))end)('\114'))end)('\101'))end)('\118'))end)('\101'))end)('\114')](table[(function(i)return(i..(function(i)return(i..(function(i)return(i..(function(i)return(i..(function(i)return(i..(function(i)return(i)end)('\116'))end)('\97'))end)('\99'))end)('\110'))end)('\111'))end)('\99')](a[3]))()))
